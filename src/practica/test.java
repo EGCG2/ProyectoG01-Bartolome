@@ -24,7 +24,7 @@ public class test {
 	      
 	      Integer primerNumero = 3;
 	      Integer segundoNumero = 2;
-	      Integer resultado = operation.suma(primerNumero, segundoNumero);
+	      Integer resultado = operation.resta(primerNumero, segundoNumero);
 	      
 	      assertTrue(resultado==1);
 	   }
