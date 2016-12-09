@@ -1,6 +1,9 @@
-package practica;
+package projectOperation_egc;
 
 import org.junit.Test;
+
+import projectOperation_egc.operation;
+
 import static org.junit.Assert.*;
 
 public class test {
