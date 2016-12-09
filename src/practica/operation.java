@@ -18,7 +18,7 @@ public class operation {
 		    int resultado = 0;
 		    
 		    //Sumamos los dos numeros
-		    resultado = numero1 - numero2;
+		    resultado = numero1 * numero2;
 		    
 		    //Retornamos el valor
 		    return resultado;
